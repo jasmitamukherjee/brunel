@@ -1,4 +1,6 @@
 .header{
+    display: flex;
+justify-content: space-between;
     width:1392px;
 height:111.17px;
 top: 24px;
@@ -7,8 +9,7 @@ padding: 16.97px 20.89px 16.97px 52.22px;
 gap: 0px;
 border-radius: 65.28px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-display: flex;
-justify-content: space-between;
+
 opacity: 0px;
 
 }
@@ -23,15 +24,15 @@ opacity: 0px;
 }
 
 .header_buttons{
-    width: Hug (428.61px)px;
-    height: Hug (77.22px)px;
+    width: 428.61px;
+    height: 77.22px;
     gap: 15.67px;
     opacity: 0px;
     
 }
 .button{
-    width: Hug (189.56px)px;
-height: Hug (77.22px)px;
+    width: 189.56px;
+height: 77.22px;
 padding: 26.11px 41.78px 26.11px 41.78px;
 gap: 5.22px;
 border-radius: 107.06px 0px 0px 0px;
